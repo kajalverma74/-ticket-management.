@@ -7,7 +7,7 @@
 3. Run `npm install` to install dependencies.
 4. Create a `.env` file in the root directory and add your MongoDB URI:
 
-5. Run `node index.js` to start the server.
+5. Run `node server.js` to start the server.
 
 ## API Endpoints
 
